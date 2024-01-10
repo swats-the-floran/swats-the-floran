@@ -5,24 +5,19 @@
   * python
   * pyQt
   * django
-  * flask
-- 🌱 I’m currently learning
-  * django
-  * docker
-  * postges
+  * FastAPI
 - My plans for learning
-  * docker
-  * celery
-  * redis
-  * flask
+  * mongodb
+  * clickhouse
   * aws
-- I'm currently working at bawaga project. Developing my skills of
+- I'm currently working at ecommerce API project. Developing my skills of
   * python
   * django
   * drf
   * postgres
-  * docker
+  * ELK
 - 💞️ I’m looking to collaborate on
-  * openpost - opensource clone of postman on pyQt
+  * GetMan - opensource tui API client
+  * Pochtamt - mail service emulating post office work at 19-20 centuries
 - 📫 How to reach me
   * euc.anatoly@gmail.com
